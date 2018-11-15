@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="segment_kithcen">COCINA</string>
+    <string name="segment_wc">WC</string>
+    <string name="segment_bedroom">DORMITORIO</string>
+    <string name="segment_hygiene">LIMPIEZA</string>
+    <string name="segment_game">JUEGOS</string>
+
+
+
+    <string name="OPERATIONS">OPERACIONES</string>
+    <string name="How_to_Play">Cómo Jugar ?</string>
+    <string name="operation_directions">Adivinar el Resultado Correcto</string>
+    <string name="score">MÁS ALTO</string>
+    <string name="high">PUNTUACIÓN</string>
+    <string name="correct">CORRECTO</string>
+    <string name="incorrect">INCORRECTO</string>
+    <string name="coin">ACUÑAR</string>
+    <string name="Start">Comienzo</string>
+    <string name="accuracy">EXACTITUD</string>
+    <string name="COLORSENSE">SENTIDO DE COLOR</string>
+    <string name="colorsense_directions">Elige el Color Equivocado</string>
+    <string name="memory">MEMORIA</string>
+    <string name="memory_directions">Elija las mismas cartas</string>
+    <string name="colorcircle">Círculo de COLOR</string>
+    <string name="colorcircle_directions">Elige el color que tienen los más altos niveles del círculo</string>
+    <string name="simlicity">SENCILLEZ</string>
+    <string name="simplicity_directions">Adivinar el Resultado Correcto</string>
+    <string name="sorting">CLASIFICACIÓN</string>
+    <string name="sorting_directions_ascending">Elija ascendente si es verde</string>
+    <string name="sorting_directions_descending">Elija descendente si es roja</string>
+
+    <string name="GREEN">VERDE</string>
+    <string name="PINK">ROSADO</string>
+    <string name="RED">ROJO</string>
+    <string name="BLUE">AZUL</string>
+    <string name="WHITE">BALNCO</string>
+    <string name="YELLOW">AMARILLO</string>
+    <string name="PURPLE">PÚRPURA</string>
+    <string name="ORANGE">NARANJA</string>
+    <string name="twitteraccount">https://twitter.com/vivo_bros</string>
+    <string name="instagramaccount">https://www.instagram.com/vivo_game/</string>
+    <string name="facebookaccount">https://www.facebook.com/vivobroshome/</string>
+    <string name="googleplusaccount">https://plus.google.com/u/0/101381337889854073666</string>
+    <string name="app_id">373603595111</string>
+    <string name="leaderboard_id">CgkI5-aJ5O8KEAIQFA</string>
+
+        <string name="app_name">Vivo</string>
+
+        <string name="hello_world">Hello world!</string>
+        <string name="action_settings">Settings</string>
+        <string name="title_activity_intro">intro</string>
+        <string name="title_activity_camera">CameraActivity</string>
+        <string name="title_activity_gamefor">GameforActivity</string>
+        <string name="title_activity_character_main">CharacterMain</string>
+        <string name="title_activity_activity_main2">activity_main2</string>
+        <string name="title_activity_eyes">Eyes</string>
+        <string name="title_activity_eyes2">Eyes2</string>
+        <string name="title_activity_pupil">Pupil</string>
+        <string name="title_activity_pupil2">Pupil2</string>
+        <string name="title_activity_mouthselect">mouthselect</string>
+        <string name="title_activity_eyelid">Eyelid</string>
+        <string name="title_activity_color_deception">ColorDeception</string>
+        <string name="title_activity_memory">Memory</string>
+        <string name="title_activity_simplicity">Simplicity</string>
+        <string name="title_activity_camera_activity_class">CameraActivityClass</string>
+        <string name="title_activity_operation">operation</string>
+        <string name="app_id_facebook">1286605408052815</string>
+        <string name="title_activity_intro2">intro2</string>
+        <string name="title_activity_activitymain3">activitymain3</string>
+        <string name="title_activity_selectionactivity">selectionactivity</string>
+        <string name="banner_ad_unit_id">ca-app-pub-3355254771595654/9491784523</string>
+    <!--  <string name="google_app_id">vivo-68328383</string> -->
+        <string name="signin_other_error">Error</string>
+        <string name="signin_failure">You can sign in later from VIVO ID.</string>
+
+
+
+        <dimen name="ksw_md_thumb_ripple_size">42dp</dimen>
+        <dimen name="ksw_md_thumb_solid_inset">11dp</dimen>
+        <dimen name="ksw_md_thumb_shadow_inset">11dp</dimen>
+        <dimen name="ksw_md_thumb_shadow_inset_top">11dp</dimen>
+        <dimen name="ksw_md_thumb_shadow_inset_bottom">10dp</dimen>
+
+        <dimen name="ksw_md_thumb_solid_size">20dp</dimen>
+        <dimen name="ksw_md_thumb_shadow_size">21dp</dimen>
+        <dimen name="ksw_md_thumb_shadow_offset">2dp</dimen>
+
+        <!-- style title -->
+        <string name="style_default">Default Style</string>
+        <string name="style_text">With Status Text</string>
+        <string name="style_nofade">Default Style without background fade effect.</string>
+        <string name="style_tint_color">Custom by tint color</string>
+        <string name="style_custom">Custom Style</string>
+        <string name="style_flyme">Flyme5 Style</string>
+        <string name="style_miui">MIUI7 Style</string>
+        <string name="style_md_ios">Material Design &#038; iOS Style</string>
+        <string name="style_disable">Disable state</string>
+        <string name="style_disable_opt">Toggle the others\' enable state</string>
+        <string name="enable_title">enable/disable other SwitchButtons</string>
+
+        <!-- use title -->
+        <string name="use_listener">Work with listener</string>
+        <string name="use_delay">Work with delay</string>
+        <string name="use_check_in_check">call setChecked(boolean)/setCheckedImmediately(boolean) in OnCheckedChangeListener\nIf the second SwitchButton is checked, the first one was "locked" to checked state.</string>
+        <string name="use_listener_finish">You did it!</string>
+        <string name="use_long">work with stuff takes long</string>
+        <string name="use_long_hint">Click "Start" button to kick it off.</string>
+        <string name="use_long_finish">Click "Start" button to kick it off.</string>
+        <string name="use_toggle">2 ways to TOGGLE</string>
+        <string name="use_checked">2 ways to SET_CHECKED</string>
+        <string name="toggle_animated">toggle();</string>
+        <string name="toggle_not_animated">toggleImmediately();</string>
+        <string name="checked_animated">setChecked(boolean);</string>
+        <string name="checked_not_animated">setCheckedImmediately(boolean);</string>
+        <string name="bt_start">Start</string>
+
+        <style name="style_in_code">Change properties in code.</style>
+
+        <string name="country_prompt">Choose a country</string>
+
+        <string name="title_activity_style">Style in xml</string>
+        <string name="title_activity_use">Easy to use</string>
+        <string name="title_activity_style_in_code">Style in code</string>
+        <string name="title_activity_recycler_view">Used in RecyclerView</string>
+        <string-array name="country_arrays">
+            <item>Malaysia</item>
+            <item>United States</item>
+            <item>Indonesia</item>
+            <item>France</item>
+            <item>Italy</item>
+            <item>Singapore</item>
+            <item>New Zealand</item>
+            <item>India</item>
+        </string-array>
+        <string name="title_activity_sorting">sorting</string>
+        <string name="title_activity_pickcolor">pickcolor</string>
+
+        <string name="title_activity_splashscreen">splashscreen</string>
+
+
+
+
+
+
+
+</resources>
+

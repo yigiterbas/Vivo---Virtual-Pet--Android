@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "373603595111",
+    "firebase_url": "https://vivo-68328383.firebaseio.com",
+    "project_id": "vivo-68328383",
+    "storage_bucket": "vivo-68328383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373603595111:android:762918e8b4f30b1d",
+        "android_client_info": {
+          "package_name": "com.game.hy.vivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373603595111-l2ic10i03k4arfr0og8ik1nolp7ftbva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.game.hy.vivo",
+            "certificate_hash": "987957F6FBCDADCC2FFE39C4BEB86271FBA4D795"
+          }
+        },
+        {
+          "client_id": "373603595111-7k7qge6ib77vck89bpidqe80mi89fqu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.game.hy.vivo",
+            "certificate_hash": "6F6D2EE7947B072D313B672116D13E4C4E1088DF"
+          }
+        },
+        {
+          "client_id": "373603595111-b4lr954vd0e3284jmt5ku7pod7ngb897.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "373603595111-qe9moq401m9chm0asll3jukmj5ebkofe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZcLfB4Oet-zxYbK5RzC2-dSgRZnqk6ZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373603595111-0j22j8u7l08gm8d6tosvagrhktcehao9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yigiterbas.vivo",
+                "app_store_id": "1161770003"
+              }
+            },
+            {
+              "client_id": "373603595111-b4lr954vd0e3284jmt5ku7pod7ngb897.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <resources>
+        <item type="id" name="layout1" />
+        <item type="id" name="layout2" />
+        <item type="id" name="layout3" />
+        <item type="id" name="layout4" />
+        <item type="id" name="layout5" />
+        <item type="id" name="layout6" />
+    <item type="id" name="layout7" />
+    <item type="id" name="layout8" />
+    <item type="id" name="layout9" />
+    <item type="id" name="layout10" />
+    <item type="id" name="layout11" />
+    <item type="id" name="layout12" />
+    <item type="id" name="layout13" />
+    <item type="id" name="layout14" />
+    <item type="id" name="layout15" />
+    <item type="id" name="layout16" />
+    <item type="id" name="layout17" />
+    <item type="id" name="layout18" />
+    <item type="id" name="layout19" />
+    <item type="id" name="layout20" />
+    <item type="id" name="layout21" />
+    <item type="id" name="layout22" />
+    <item type="id" name="layout23" />
+    <item type="id" name="layout24" />
+    <item type="id" name="layout25" />
+    <item type="id" name="layout26" />
+    <item type="id" name="layout27" />
+    <item type="id" name="layout28" />
+    <item type="id" name="layout29" />
+    <item type="id" name="layout30" />
+    <item type="id" name="layout31" />
+    <item type="id" name="layout32" />
+    <item type="id" name="layout33" />
+    <item type="id" name="layout34" />
+    <item type="id" name="layout35" />
+    <item type="id" name="layout36" />
+    <item type="id" name="layout37" />
+    <item type="id" name="layout38" />
+    <item type="id" name="layout39" />
+    <item type="id" name="layout40" />
+    <item type="id" name="layout41" />
+    <item type="id" name="layout42" />
+    <item type="id" name="layout43" />
+    <item type="id" name="layout44" />
+    <item type="id" name="layout45" />
+    <item type="id" name="layout46" />
+    <item type="id" name="layout47" />
+    <item type="id" name="layout48" />
+    <item type="id" name="layout49" />
+    <item type="id" name="layout50" />
+    <item type="id" name="layout51" />
+    <item type="id" name="layout52" />
+    <item type="id" name="layout53" />
+    <item type="id" name="layout54" />
+    <item type="id" name="layout55" />
+    <item type="id" name="layout56" />
+    <item type="id" name="layout57" />
+    <item type="id" name="layout58" />
+    <item type="id" name="layout59" />
+    <item type="id" name="layout60" />
+    <item type="id" name="layout61" />
+    <item type="id" name="layout62" />
+    <item type="id" name="layout63" />
+    <item type="id" name="layout64" />
+    <item type="id" name="layout65" />
+    <item type="id" name="layout66" />
+    <item type="id" name="layout67" />
+    <item type="id" name="layout68" />
+    <item type="id" name="layout69" />
+
+    <string name="app_id">373603595111</string>
+    <string name="leaderboard_id">CgkI5-aJ5O8KEAIQFA</string>
+
+
+
+
+    </resources>
+
+

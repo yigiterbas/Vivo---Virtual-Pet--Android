@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "668922708672",
+    "firebase_url": "https://vivo-50364.firebaseio.com",
+    "project_id": "vivo-50364",
+    "storage_bucket": "vivo-50364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668922708672:android:762918e8b4f30b1d",
+        "android_client_info": {
+          "package_name": "com.game.hy.vivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668922708672-aej5o3b7et61f67chnftgh3pk7aod1ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7TZJ3iTIPy6iGpx9-8COR1kRVaDHlTEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
